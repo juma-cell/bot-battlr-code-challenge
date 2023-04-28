@@ -13,6 +13,30 @@
       "updated_at": "2018-10-02T19:55:10.800Z"
     },
     {
+      "id": 102,
+      "name": "RyM-66",
+      "health": 86,
+      "damage": 36,
+      "armor": 77,
+      "bot_class": "Medic",
+      "catchphrase": "0110011100000100011110100110011000011001",
+      "avatar_url": "https://robohash.org/quidemconsequaturaut.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:10.827Z",
+      "updated_at": "2018-10-02T19:55:10.827Z"
+    },
+    {
+      "id": 103,
+      "name": "P-24",
+      "health": 88,
+      "damage": 25,
+      "armor": 60,
+      "bot_class": "Witch",
+      "catchphrase": "1100101001110111110010011010110",
+      "avatar_url": "https://robohash.org/idetcumque.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:10.844Z",
+      "updated_at": "2018-10-02T19:55:10.844Z"
+    },
+    {
       "id": 104,
       "name": "qq-69",
       "health": 74,
@@ -49,6 +73,18 @@
       "updated_at": "2018-10-02T19:55:10.887Z"
     },
     {
+      "id": 107,
+      "name": "XSf-63",
+      "health": 97,
+      "damage": 26,
+      "armor": 58,
+      "bot_class": "Support",
+      "catchphrase": "0010110001011100111100101010101000",
+      "avatar_url": "https://robohash.org/accusantiumetfacilis.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:10.899Z",
+      "updated_at": "2018-10-02T19:55:10.899Z"
+    },
+    {
       "id": 108,
       "name": "m-76",
       "health": 65,
@@ -61,6 +97,18 @@
       "updated_at": "2018-10-02T19:55:10.915Z"
     },
     {
+      "id": 109,
+      "name": "hjk-40",
+      "health": 75,
+      "damage": 84,
+      "armor": 31,
+      "bot_class": "Witch",
+      "catchphrase": "11010100110000100001110001100000010111101000001100",
+      "avatar_url": "https://robohash.org/quirationerem.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:10.940Z",
+      "updated_at": "2018-10-02T19:55:10.940Z"
+    },
+    {
       "id": 110,
       "name": "Nb-70",
       "health": 64,
@@ -71,6 +119,18 @@
       "avatar_url": "https://robohash.org/aperiametfuga.png?size=300x300&set=set1",
       "created_at": "2018-10-02T19:55:11.004Z",
       "updated_at": "2018-10-02T19:55:11.004Z"
+    },
+    {
+      "id": 111,
+      "name": "ya-81",
+      "health": 56,
+      "damage": 22,
+      "armor": 92,
+      "bot_class": "Defender",
+      "catchphrase": "100000011001011111110100110001010101100111001100",
+      "avatar_url": "https://robohash.org/similiquereprehenderitet.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.017Z",
+      "updated_at": "2018-10-02T19:55:11.017Z"
     },
     {
       "id": 112,
@@ -95,6 +155,18 @@
       "avatar_url": "https://robohash.org/aliquamutvelit.png?size=300x300&set=set1",
       "created_at": "2018-10-02T19:55:11.046Z",
       "updated_at": "2018-10-02T19:55:11.046Z"
+    },
+    {
+      "id": 114,
+      "name": "lGp-46",
+      "health": 67,
+      "damage": 21,
+      "armor": 82,
+      "bot_class": "Medic",
+      "catchphrase": "001101000100001110001111010100110000000110000101",
+      "avatar_url": "https://robohash.org/autsaepeeveniet.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:11.062Z",
+      "updated_at": "2018-10-02T19:55:11.062Z"
     },
     {
       "id": 115,
